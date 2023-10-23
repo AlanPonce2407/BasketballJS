@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #1B244A;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#home-score {
+    background: #0a0001;
+    padding-top: 10px;
+    font-size: 85px;
+    color: #F94F6D;
+    width: 200px;
+    margin: 20px;
+    font-family: 'Cursed Timer ULiL', sans-serif;                                                 
+}
+
+#guest-score {
+    background: #0a0001;
+    padding-top: 10px;
+    font-size: 85px;
+    color: #F94F6D;
+    width: 200px;
+    margin: 20px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+}
+
+
+h3 {
+    color: #EEE;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#home-score-btn-1, #home-score-btn-2, #home-score-btn-3 {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #9AABD8;
+    background: none;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+}
+
+#guest-score-btn-1, #guest-score-btn-2, #guest-score-btn-3 {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #9AABD8;
+    background: none;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+}
+
+#reset-btn {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #9AABD8;
+    background: none;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+}
+
